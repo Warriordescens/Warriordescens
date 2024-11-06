@@ -10,6 +10,8 @@ I am currently studying Computer Science in higher education, specializing in Mu
   - Python
   - Linux
   - Virtual machines in VirtualBox
+  - Git
+  - GitHub
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech I like to 🎮 play videogames, 🎵 listen to music, and 📖 read science books.

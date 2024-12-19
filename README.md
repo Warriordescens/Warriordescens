@@ -80,5 +80,5 @@ I am currently studying Computer Science in higher education, specializing in Mu
 
 
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/warrior20025/warrior20025/blob/main/github-user-contribution.svg" alt="snake">
 </p>

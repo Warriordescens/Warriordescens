@@ -76,15 +76,3 @@ I am currently studying Computer Science in higher education, specializing in Mu
 </div>
 
 
-
-
-
-<p align="center">
-  - name: generate github-contribution-grid-snake.svg
-        uses: warrior20025/snk/svg-only@v3
-        with:
-          github_user_name: ${{ https://github.com/Warrior20025 }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-</p>

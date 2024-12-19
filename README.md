@@ -7,7 +7,7 @@
 
 I am currently studying Computer Science in higher education, specializing in Multiplatform Application Development. I enjoy expanding my skills and knowledge through my studies and also love to spend my free time programming and exploring new technologies.
 - ⌛​ I’m currently learning ...
-  - Python
+  - Java
   - Linux
   - Virtual machines in VirtualBox
   - Git

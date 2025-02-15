@@ -10,6 +10,7 @@ I am currently studying Computer Science in higher education, specializing in Mu
   - Java
   - Linux
   - Virtual machines in VirtualBox
+  - Data Bases (SQL)
   - Git
   - GitHub
 - 👯 I’m looking forward to collaborate on open source projects.

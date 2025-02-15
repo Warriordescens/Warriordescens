@@ -65,7 +65,7 @@ I am currently studying Computer Science in higher education, specializing in Mu
 
 ## Contact with me!
 
-<a href= "https://www.instagram.com/alex_hernandezg06/">
+<a href= "https://www.instagram.com/alex_hernandezgg/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

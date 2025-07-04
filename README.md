@@ -63,10 +63,9 @@ I am currently studying Computer Science in higher education, specializing in Mu
 </span>
 
 
-## Contact with me!
+## Visit my personal blog!
 
-<a href= "https://www.instagram.com/alex_hernandezgg/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href= "https://warrior20025.github.io/Blog/">
+    <img src="[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)">
 </a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 

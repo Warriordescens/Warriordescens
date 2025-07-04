@@ -66,6 +66,6 @@ I am currently studying Computer Science in higher education, specializing in Mu
 ## Visit my personal blog!
 
 <a href= "https://warrior20025.github.io/Blog/">
-    <img src="[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 </a>
 
